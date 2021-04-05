@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.nuget-list {
+  max-height: 31rem;
+  margin-bottom: 1rem;
+  overflow: scroll;
+}
